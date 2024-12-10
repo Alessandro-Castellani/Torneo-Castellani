@@ -7,7 +7,7 @@ package com.mycompany.castellani.torneo;
 /**
  *
  * @author Alessandro-Castellani
- * @see Scheda eseritazione
+ * @see Scheda esercitazione
  */
 
 
