@@ -6,7 +6,7 @@ package com.mycompany.castellani.torneo;
 
 /**
  *
- * @author user
+ * @author Alessandro-Castellani
  */
 public class Torneo {
 
