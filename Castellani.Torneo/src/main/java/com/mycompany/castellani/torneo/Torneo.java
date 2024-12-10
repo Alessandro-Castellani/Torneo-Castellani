@@ -7,7 +7,10 @@ package com.mycompany.castellani.torneo;
 /**
  *
  * @author Alessandro-Castellani
+ * @see Scheda eseritazione
  */
+
+
 public class Torneo {
 
     public static void main(String[] args) {
